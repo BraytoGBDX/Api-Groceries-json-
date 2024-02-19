@@ -76,4 +76,5 @@ export const deleteProduct=(req,res)=>{
     })
 }
 
+//prueba
 
